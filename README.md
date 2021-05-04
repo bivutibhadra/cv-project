@@ -1,3 +1,3 @@
 # cv-project
 
-my cv
+my cv-project
